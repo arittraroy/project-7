@@ -1,0 +1,29 @@
+.login{
+box-shadow: 2px 3px 7px gray;
+    border-radius: 20px;
+}
+
+
+
+#main-bank{
+    display: none;
+}
+
+.main{
+    border: 2px solid black;
+    margin: 30px;
+    border-radius: 20px;
+    padding: 20px 30px;
+    color: white;
+    height: 150px;
+}
+
+.add{
+    margin: 25px;
+    padding: 10px 15px;
+    box-shadow: 2px 3px 7px gray;
+    border-radius: 20px; 
+    height: 200px;
+}
+
+
